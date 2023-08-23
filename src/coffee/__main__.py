@@ -1,5 +1,5 @@
 import sys
-from main import main
+from .main import main
 
 
-main(sys.argv[1])
+print(main(sys.argv[1]))
