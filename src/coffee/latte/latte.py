@@ -1,0 +1,2 @@
+def make():
+    return "latte"
