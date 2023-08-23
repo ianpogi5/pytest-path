@@ -1,6 +1,10 @@
 # pytest-path
 
-Example of setting up [pytest](https://docs.pytest.org/) with your source code inside `src` folder and tests inside `tests` folder.
+Example project for setting up [pytest](https://docs.pytest.org/) with your source code inside `src` folder and tests inside `tests` folder.
+
+This repo also has an example of how to run [pytest](https://docs.pytest.org/) using [tox](https://tox.wiki/) in [Github Actions](https://github.com/ianpogi5/pytest-path/actions).
+
+[![test](https://github.com/ianpogi5/pytest-path/actions/workflows/test.yml/badge.svg)](https://github.com/ianpogi5/pytest-path/actions/workflows/test.yml)
 
 ## Development
 
