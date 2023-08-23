@@ -1,0 +1,7 @@
+[run]
+relative_files = True
+source = src
+branch = True
+omit =
+    **/__main__.py
+    **/__init__.py
