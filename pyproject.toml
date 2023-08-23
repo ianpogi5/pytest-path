@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=42.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "coffee"
+version = "0.1.0"
+authors = [
+  { name="Ian Dela Cruz", email="iandc76@gmail.com" },
+]
+description = "Pytest src path example"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ianpogi5/pytest-path"
+"Bug Tracker" = "https://github.com/ianpogi5/pytest-path/issues"
